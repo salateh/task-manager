@@ -1,0 +1,6 @@
+*.tsx linguist-language=TSX
+
+*.ts linguist-language=TypeScript
+
+*.js linguist-detectable=false
+*.css linguist-detectable=false
